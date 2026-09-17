@@ -48,6 +48,14 @@ Please credit the main creator:
 
 **Taechasith Kangkhuntod**
 
+## From the Main Developer
+
+I began this research when I was still in high school, and it has grown with me over four years of study, revision, questioning, and encouragement. GhostLab is not only a dataset or a paper to me; it is a long personal attempt to understand how stories, belief, fear, memory, and culture can be studied with care.
+
+I was privileged to receive generous mentorship and support from Dr. Pat Pataranutaporn from the MIT Media Lab, and from Dr. Pongdet Piromyou and Dr. Pitoon Amornwitthawat from Suranaree University of Technology. I am also deeply grateful to the friends, professors, and supporters who encouraged this work along the way, especially people in the JSTP community.
+
+To future contributors: thank you for taking this work further. Whether you improve the data, question the method, add new analysis, or simply read it with curiosity, I hope this repository becomes a place where unusual questions can be studied seriously, openly, and respectfully.
+
 Suggested citation:
 
 > Kangkhuntod, T., Miankamnerd, K., & Thongchai, C. (2026). *GhostLab: Understanding Sociocultural Patterns and Psychological Factors of Human and Ghost Co-Interactive Existence in Thailand Context through the "Man vs Ghost" (Kon Uat Phee) Program*. GhostLab open research repository.
