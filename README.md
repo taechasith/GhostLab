@@ -8,8 +8,7 @@ This repository shares the paper, coded dataset, and analysis outputs so other r
 
 ## Full Paper
 
-- [GhostLab_Paper_Revised_IAFOR.pdf](GhostLab_Paper_Revised_IAFOR.pdf) - submission-ready paper.
-- [GhostLab_Paper_Revised_IAFOR.docx](GhostLab_Paper_Revised_IAFOR.docx) - editable paper source.
+- [GhostLab_Paper_Revised_IAFOR.pdf](GhostLab_Paper_Revised_IAFOR.pdf)
 
 ## Dataset
 
