@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, paper, or analysis package, please cite GhostLab and credit Taechasith Kangkhuntod as the main creator."
+title: "GhostLab: Understanding Sociocultural Patterns and Psychological Factors of Human and Ghost Co-Interactive Existence in Thailand Context through the \"Man vs Ghost\" (Kon Uat Phee) Program"
+type: dataset
+version: "1.0.0"
+date-released: "2026-09-18"
+license: "CC-BY-4.0"
+authors:
+  - family-names: "Kangkhuntod"
+    given-names: "Taechasith"
+  - family-names: "Miankamnerd"
+    given-names: "Kasidis"
+  - family-names: "Thongchai"
+    given-names: "Chatdanai"
+preferred-citation:
+  type: article
+  title: "GhostLab: Understanding Sociocultural Patterns and Psychological Factors of Human and Ghost Co-Interactive Existence in Thailand Context through the \"Man vs Ghost\" (Kon Uat Phee) Program"
+  authors:
+    - family-names: "Kangkhuntod"
+      given-names: "Taechasith"
+    - family-names: "Miankamnerd"
+      given-names: "Kasidis"
+    - family-names: "Thongchai"
+      given-names: "Chatdanai"
+  year: 2026

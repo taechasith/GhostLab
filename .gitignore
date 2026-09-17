@@ -1,0 +1,20 @@
+/tmp_paper_rewrite/iafor_guidelines_converted.docx
+/iafor_conference_proceedings_submission_guidelines.doc
+
+# Local working drafts and generated scratch files
+/GhostLab Paper (Draft).docx
+/tmp_paper_rewrite/*
+!/tmp_paper_rewrite/rendered_v8_pdf_contact.png
+
+# Office, OS, and editor noise
+~$*
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local environment/private config
+.env
+.env.*
+*.log
